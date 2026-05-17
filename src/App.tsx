@@ -238,7 +238,7 @@ export default function App() {
             />
 
             <textarea
-              rows="6"
+              rows={6}
               placeholder="Your Message"
               className="w-full bg-transparent border border-[#5b564d] rounded-2xl px-5 py-4 outline-none focus:border-white transition resize-none"
             ></textarea>
