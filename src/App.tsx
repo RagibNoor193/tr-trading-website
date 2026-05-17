@@ -122,7 +122,7 @@ export default function App() {
                 text: 'Professional coordination with trusted local manufacturers and mills.',
               },
               {
-                title: 'Logistics Support',
+                title: 'N Support',
                 text: 'Complete export handling including documentation and shipment execution.',
               },
             ].map((service, index) => (
